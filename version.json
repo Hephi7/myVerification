@@ -1,4 +1,5 @@
 {
-  "version": "0.6.7",
-  "download": "https://github.com/hephi7/myVerification/releases/download/0.6.7/myVerification.xlsm"
+  "version": "0.6.8",
+  "download": "https://github.com/hephi7/myVerification/releases/download/0.6.8/myVerification.xlsm"
+  "helper_download": "https://github.com/hephi7/myVerification/releases/download/v0.6.8/HelperBestand.xlsm"
 }
