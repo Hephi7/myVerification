@@ -1,6 +1,6 @@
 {
-  "app_version": "0.9.4",
-  "app_download": "https://github.com/hephi7/myVerification/releases/download/0.9.4/myVerification.xlsm",
+  "app_version": "0.9.5",
+  "app_download": "https://github.com/hephi7/myVerification/releases/download/0.9.5/myVerification.xlsm",
   "updater_version": "0.8.9",
   "updater_download": "https://github.com/hephi7/myVerification/releases/download/0.8.9/MyUpdater.xlsm",
   "helper_version": "0.8.4",
