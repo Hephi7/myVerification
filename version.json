@@ -1,10 +1,10 @@
 {
-  "app_version": "1.1.1",
-  "app_download": "https://github.com/hephi7/myVerification/releases/download/1.1.1/myVerification.xlsm",
+  "app_version": "1.1.2",
+  "app_download": "https://github.com/hephi7/myVerification/releases/download/1.1.2/myVerification.xlsm",
   "updater_version": "0.8.9",
   "updater_download": "https://github.com/hephi7/myVerification/releases/download/0.8.9/MyUpdater.xlsm",
-  "helper_version": "0.8.4",
-  "helper_download": "https://github.com/hephi7/myVerification/releases/download/0.8.4/HelperBestand.xlsm",
+  "helper_version": "1.1.2",
+  "helper_download": "https://github.com/hephi7/myVerification/releases/download/1.1.2/HelperBestand.xlsm",
   "relaas_version": "0.8.4",
   "relaas_download": "https://github.com/hephi7/myVerification/releases/download/0.8.4/RelaasTemplate.docx"
 }
