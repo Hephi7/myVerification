@@ -3,6 +3,7 @@
   "app_download": "https://github.com/hephi7/myVerification/releases/download/1.1.3/myVerification.xlsm",
   "updater_version": "0.8.9",
   "updater_download": "https://github.com/hephi7/myVerification/releases/download/0.8.9/MyUpdater.xlsm",
+  "updater_sha256": "A50AD3171C6160306AF1A50447BE8837FF7EA6C0E505FC17DF547D148F9CD60B"
   "helper_version": "1.1.2",
   "helper_download": "https://github.com/hephi7/myVerification/releases/download/1.1.2/HelperBestand.xlsm",
   "relaas_version": "0.8.4",
