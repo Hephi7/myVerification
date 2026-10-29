@@ -1,9 +1,9 @@
 {
   "app_version": "1.3.0",
   "app_download": "https://github.com/hephi7/myVerification/releases/download/1.3.0/myVerification.xlsm",
-  "updater_version": "1.1.8",
-  "updater_download": "https://github.com/hephi7/myVerification/releases/download/1.1.8/MyUpdater.xlsm",
-  "updater_sha256": "f228305b00f658471ede85dc2ceea7eafccd20f750076f138d9a7dda99f47503"
+  "updater_version": "1.3.0",
+  "updater_download": "https://github.com/hephi7/myVerification/releases/download/1.3.0/MyUpdater.xlsm",
+  "updater_sha256": "8afb8d40b9b0d87a115440b20f554a3f6653bb6e70119e2bd49f83f1a419d1b8"
   "helper_version": "1.1.2",
   "helper_download": "https://github.com/hephi7/myVerification/releases/download/1.1.2/HelperBestand.xlsm",
   "relaas_version": "0.8.4",
